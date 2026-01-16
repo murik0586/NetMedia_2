@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">NMedia</string>
-    <string name="les_one_text">NMedia</string>
+    <string name="text">NMedia!</string>
+    <string name="description_post_menu">More actions for the post</string>
+    <string name="action_like_post">Like the post</string>
+    <string name="avatar">Avatar</string>
+    <string name="author">Post author</string>
+    <string name="date">Publication date</string>
+    <string name="content">Post text content</string>
+    <string name="counts_like">Number of likes</string>
+    <string name="counts_share">Number of shares</string>
+    <string name="counts_view">Number of views</string>
+    <string name="views">views</string>
+    <string name="share">share</string>
+
 </resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">НМедиа</string>
+    <string name="text">НМедиа!</string>
+    <string name="description_post_menu">Дополнительные действия для поста</string>
+    <string name="action_like_post">Поставить лайк</string>
+    <string name="avatar">Аватар</string>
+    <string name="author">Автор поста</string>
+    <string name="date">Дата публикации</string>
+    <string name="content">Текстовое содержимое поста</string>
+    <string name="counts_like">Количество лайков</string>
+    <string name="counts_share">Сколько раз поделились</string>
+    <string name="counts_view">Сколько раз посмотрели</string>
+    <string name="views">просмотры</string>
+    <string name="share">поделится</string>
+</resources>
